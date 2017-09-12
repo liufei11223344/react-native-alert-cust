@@ -98,7 +98,7 @@ AlertIOS.alert(title, message, buttons);
 }
 
 /**
- * Wrapper around the Android native module.
+ * Wrapper around the Android native module.2222222222
  */
 class AlertAndroid {
 
